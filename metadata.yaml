@@ -1,0 +1,38 @@
+_repo: Mr.-Spaceship_32522
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 32522/32522-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Dick, Philip K.
+    alias: Dick, Philip Kindred
+    birthdate: 1928
+    deathdate: 1982
+    gutenberg_agent_id: '33399'
+    url: http://www.gutenberg.org/2009/agents/33399
+    wikipedia: http://en.wikipedia.org/wiki/Philip_K._Dick
+description: Imagine an advanced spacecraft powered by the human brain. That's the
+  remarkable technology at the heart of this fascinating short story by science fiction
+  mastermind Philip K. Dick. A professor nearing the end of his natural lifespan donates
+  his brain to the cutting-edge research effort -- but will he ultimately follow along
+  with the plan?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32522'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'War stories'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Mr. Spaceship
+url: http://www.gutenberg.org/ebooks/32522
