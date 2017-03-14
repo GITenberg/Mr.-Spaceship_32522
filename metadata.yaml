@@ -1,10 +1,8 @@
 _repo: Mr.-Spaceship_32522
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 32522/32522-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 32522-h/images/cover.jpg
 creator:
   author:
     agent_name: Dick, Philip K.
@@ -19,6 +17,8 @@ description: Imagine an advanced spacecraft powered by the human brain. That's t
   mastermind Philip K. Dick. A professor nearing the end of his natural lifespan donates
   his brain to the cutting-edge research effort -- but will he ultimately follow along
   with the plan?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32522#Mr.-Spaceship
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-05-25'
 gutenberg_type: Text
